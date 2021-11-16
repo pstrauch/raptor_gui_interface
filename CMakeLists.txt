@@ -10,5 +10,5 @@ find_package(MAVSDK REQUIRED)
 
 add_subdirectory(lib)
 add_subdirectory(external)
-add_subdirectory(apps)
-add_subdirectory(tests)
+add_subdirectory(app)
+add_subdirectory(test)

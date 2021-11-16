@@ -1,4 +1,3 @@
-
 add_executable(raptor_gui_interface
 src/main.cpp
 )
